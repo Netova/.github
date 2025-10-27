@@ -38,9 +38,9 @@ Nie interesują nas półśrodki — tylko *perfekcja w kodzie i strategii*.
 ---
 
 ## 📬 Kontakt
-**🌍 Strona:** [netova.pl](https://netova.pl) *(jeśli jest — podmień)*  
-**📧 Email:** contact@netova.pl  
-**💬 Discord:** soon™  
+**🌍 Strona:** coming soon
+**📧 Email:** coming soon 
+**💬 Discord:** coming soon
 
 ---
 
